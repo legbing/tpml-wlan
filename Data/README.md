@@ -1,0 +1,1 @@
+This folder consists of all the necessary code to run the data cleaning and processing pipeline, including the data files.
